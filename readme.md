@@ -1,9 +1,6 @@
-<h1 size=5>技术选型</h1>
-Vue3+Vite+Pinia+Express.js+TypeScript
-
-<h2>更新</h2>
-技术选型二号方案为React+Bun+Next.js
-开梭
-
-<h2>技术定型</h2>
+<h1>技术定型</h1>
 React+Bun+Next.js
+
+<h1>9月17日目标</h1>
+<p>最低目标：完成前后端搭建</p>
+<p>最高目标：完成共享计时器功能</p>
