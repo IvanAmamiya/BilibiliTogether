@@ -1,11 +1,9 @@
 {
-  "name": "bilibiliwatchtogether",
-  "module": "index.ts",
-  "type": "module",
-  "devDependencies": {
-    "bun-types": "latest"
-  },
-  "peerDependencies": {
-    "typescript": "^5.0.0"
-  }
+  "name": "BilibiliTogether",
+  "version": "1.0.0",
+  "description": "What Together",
+  "main": "index.js",
+  "repository": "https://github.com/IvanAmamiya/BilibiliTogether.git",
+  "author": "Rokossovskaya <svnn175e@gmail.com>",
+  "license": "MIT"
 }
