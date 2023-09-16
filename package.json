@@ -5,5 +5,14 @@
   "main": "index.js",
   "repository": "https://github.com/IvanAmamiya/BilibiliTogether.git",
   "author": "Rokossovskaya <svnn175e@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "create-react-app": "^5.0.1"
+  }
 }
