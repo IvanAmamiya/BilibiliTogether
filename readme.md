@@ -6,3 +6,5 @@ React+Bun+Next.js
 <p>最高目标：完成共享计时器功能</p>
 
 额。。。看来iframe的内部停止键不是这么好调。。。
+
+<h1>部署在Versel上</h1>
