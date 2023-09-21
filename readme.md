@@ -7,4 +7,4 @@ React+Bun+Next.js
 
 额。。。看来iframe的内部停止键不是这么好调。。。
 
-<h1>部署在Versel上</h1>
+<h1>部署在Vercel上</h1>
