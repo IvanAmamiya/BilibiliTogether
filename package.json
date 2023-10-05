@@ -13,6 +13,7 @@
     "typescript": "^5.0.0"
   },
   "dependencies": {
+    "@types/react-youtube": "^7.10.0",
     "create-next-app": "^13.4.19",
     "create-react-app": "^5.0.1",
     "react-youtube": "^10.1.0"
