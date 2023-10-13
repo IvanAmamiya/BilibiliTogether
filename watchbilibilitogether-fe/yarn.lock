@@ -237,6 +237,11 @@
   resolved "https://registry.yarnpkg.com/@types/scheduler/-/scheduler-0.16.4.tgz#fedc3e5b15c26dc18faae96bf1317487cb3658cf"
   integrity sha512-2L9ifAGl7wmXwP4v3pN4p2FLhD0O1qsJpvKmNin5VA8+UvNVb447UDaAEV6UdrkA+m/Xs58U1RFps44x6TFsVQ==
 
+"@types/youtube-player@^5.5.8":
+  version "5.5.8"
+  resolved "https://registry.yarnpkg.com/@types/youtube-player/-/youtube-player-5.5.8.tgz#0b870fcb30199a01f793a903430ef21e96d02479"
+  integrity sha512-WU6l9UyIp1TKEK3xN8K5Y1nZpP4FTnrz4ArAPjQknReNNkN9UeLbmAuFu2F69YthLkLkOAMWi9O3a6kJCIWH5g==
+
 "@typescript-eslint/parser@^5.4.2 || ^6.0.0":
   version "6.7.4"
   resolved "https://registry.yarnpkg.com/@typescript-eslint/parser/-/parser-6.7.4.tgz#23d1dd4fe5d295c7fa2ab651f5406cd9ad0bd435"
